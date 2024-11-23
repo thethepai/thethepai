@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2024 - To: 21 November 2024
+From: 15 November 2024 - To: 22 November 2024
 
-Total Time: 27 mins
+Total Time: 0 secs
 
-CSV        11 mins         ██████████▓░░░░░░░░░░░░░░   42.28 %
-C++        11 mins         ██████████▓░░░░░░░░░░░░░░   42.05 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
