@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 21 mins
+Total Time: 0 secs
 
-C          20 mins         ████████████████████████░   96.42 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Modula-2   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
