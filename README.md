@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
-Total Time: 0 secs
+Total Time: 51 mins
 
-No activity tracked
+Python       41 mins         ████████████████████▒░░░░   81.65 %
+C            5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+CSV          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
