@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2025 - To: 11 March 2025
+From: 05 March 2025 - To: 12 March 2025
 
-Total Time: 0 secs
+Total Time: 11 mins
 
-No activity tracked
+Python   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+Bash     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
 ```
 
 <!--END_SECTION:waka-->
