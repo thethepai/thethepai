@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Total Time: 35 mins
+Total Time: 7 hrs 36 mins
 
-Typst      29 mins         █████████████████████▒░░░   85.31 %
-Python     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Typst      7 hrs 14 mins   ███████████████████████▓░   95.09 %
+BibTeX     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
