@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2025 - To: 20 May 2025
+From: 14 May 2025 - To: 21 May 2025
 
-Total Time: 1 hr 29 mins
+Total Time: 4 hrs 1 min
 
-BibTeX   49 mins         ██████████████░░░░░░░░░░░   55.76 %
-Typst    39 mins         ███████████░░░░░░░░░░░░░░   44.24 %
+BibTeX   2 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.93 %
+Typst    1 hr 58 mins    ████████████▒░░░░░░░░░░░░   49.07 %
 ```
 
 <!--END_SECTION:waka-->
